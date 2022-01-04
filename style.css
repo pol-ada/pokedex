@@ -383,7 +383,7 @@ body {
 
   .left-bottom {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-direction: row;
     margin-top: 3%;
     margin-left: -5%;
@@ -856,7 +856,6 @@ body {
   box-shadow: 0 0 2px 2px rgba(0,0,0, .3);
   height: 100%;
     width: 35px;
-    margin-left: 100%;
 }
 
 .x-pad.top {
